@@ -1,2 +1,2 @@
 # ecommicro-moltin
-java module for motlin shopping api
+java sdk for motlin shopping api - comming soon
